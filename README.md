@@ -26,7 +26,8 @@ It has been tested with https://github.com/tkuester/taky but should work with ot
 
 ## BOT commands
 BOT commands are ... TBC
-Presently just type anything and it goes to W3W
+Presently just type anything and the location in your geochat message will be extracted and forwarded, anon, to W3W.
+The W3W response will be sent back to you via geochat.
 
 
  
