@@ -1,8 +1,9 @@
 import socket, json, requests
 import datetime
-from lxml import etree
 import time
 import what3words
+import xml.etree.ElementTree
+from lxml import etree
 
 # 	ATAK 'Geo Bot' for geo conversions
 # 	Tested with https://github.com/tkuester/taky
