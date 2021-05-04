@@ -35,9 +35,9 @@ from OSGridConverter import latlong2grid
 # *** CHANGE ME ***
 
 # ADVANCED
-TAK_SERVER_ADDRESS = "127.0.0.1"  # The TAK server's hostname or IP address
+TAK_SERVER_ADDRESS = "3.10.120.210"  # The TAK server's hostname or IP address
 TAK_SERVER_PORT = 8087        # The TCP CoT port used by the server for XML
-W3W_API_KEY = ""	# YOUR API KEY
+W3W_API_KEY = "H879MIU9"	# YOUR API KEY
 debug = 0
 geocoder = what3words.Geocoder(W3W_API_KEY)
 
